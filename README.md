@@ -17,7 +17,7 @@ I’m passionate about building practical IT solutions, from student productivit
 My dissertation project — building a lightweight intrusion detection system for IoT devices using Python and Raspberry Pi.  
 *Skills: Cybersecurity, Python, Networking, IoT, Raspberry Pi*  
 
-### 📱 [uniZen – Student Productivity App](https://github.com/joshbradley/uniZen)
+### 📱 [UniZen – Student Productivity App](https://github.com/joshbradley/uniZen)
 A SwiftUI iOS app designed to help remote students stay productive. Features study session goals, break reminders, adaptive soundscapes, and premium analytics.  
 *Skills: SwiftUI, Mobile App Dev, Firebase, UX Design*  
 
