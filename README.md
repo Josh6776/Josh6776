@@ -21,7 +21,7 @@ Building a lightweight intrusion detection system for IoT devices using Python a
 A SwiftUI iOS app designed to help remote students stay productive. Features study session goals, break reminders, adaptive soundscapes, and premium analytics.  
 *Skills: SwiftUI, Mobile App Dev, Firebase, UX Design*  
 
-### 💡 [Raspberry Pi LED Controller](https://github.com/Josh6776/pi-leds)
+### 💡 [Raspberry Pi LED Controller](https://github.com/Josh6776/Raspberry-Pi-LEDs)
 Offline Python project to control 3 LEDs connected to a Raspberry Pi Zero 2 W.  
 *Skills: Python, GPIO, IoT Hardware, Electronics*  
 
