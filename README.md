@@ -14,7 +14,7 @@ I’m passionate about building practical IT solutions, from student productivit
 
 ## 📂 Featured Projects
 ### 🔒 [Lightweight IDS for IoT Devices](https://github.com/joshbradley/IoT-IDS)
-My dissertation project — building a lightweight intrusion detection system for IoT devices using Python and Raspberry Pi.  
+Building a lightweight intrusion detection system for IoT devices using Python and Raspberry Pi.  
 *Skills: Cybersecurity, Python, Networking, IoT, Raspberry Pi*  
 
 ### 📱 [UniZen – Student Productivity App](https://github.com/joshbradley/uniZen)
