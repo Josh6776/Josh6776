@@ -7,7 +7,7 @@ I’m passionate about building practical IT solutions, from student productivit
 - **Programming & Scripting**: Python, Swift (SwiftUI), Java  
 - **Cybersecurity**: IDS/IPS, Wireshark, Splunk, Network Monitoring  
 - **IT & Infrastructure**: Linux, Raspberry Pi, Docker, Networking  
-- **App Development**: iOS (SwiftUI), Firebase, UI/UX  
+- **App Development**: iOS (SwiftUI), Android, Firebase, UI/UX  
 - **Other Tools**: Git, GitHub, VS Code, Xcode  
 
 ---
