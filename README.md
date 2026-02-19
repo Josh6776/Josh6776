@@ -17,7 +17,7 @@ I’m passionate about building practical IT solutions, from student productivit
 Building a lightweight intrusion detection system for IoT devices using Python and Raspberry Pi.  
 *Skills: Cybersecurity, Python, Networking, IoT, Raspberry Pi*  
 
-### 📱 [UniZen – Student Productivity App](https://github.com/Josh6776/uniZen)
+### 📱 [GradePilot – Student Productivity App](https://github.com/Josh6776/uniZen)
 A SwiftUI iOS app designed to help remote students stay productive. Features study session goals, break reminders, adaptive soundscapes, and premium analytics.  
 *Skills: SwiftUI, Mobile App Dev, Firebase, UX Design*  
 
