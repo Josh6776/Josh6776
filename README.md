@@ -18,7 +18,7 @@ Building a lightweight intrusion detection system for IoT devices using Python a
 *Skills: Cybersecurity, Python, Networking, IoT, Raspberry Pi*  
 
 ### 📱 [GradePilot – Student Productivity App](https://github.com/Josh6776/uniZen)
-A SwiftUI iOS app designed to help remote students stay productive. Features study session goals, break reminders, adaptive soundscapes, and premium analytics.  
+A SwiftUI iOS app designed to help students
 *Skills: SwiftUI, Mobile App Dev, Firebase, UX Design*  
 
 ### 💡 [Raspberry Pi LED Controller](https://github.com/Josh6776/Raspberry-Pi-LEDs)
