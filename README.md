@@ -5,7 +5,7 @@ I’m passionate about building practical IT solutions, from student productivit
 
 ## 🚀 Skills & Tools
 - **Programming & Scripting**: Python, Swift (SwiftUI), Java  
-- **Cybersecurity**: IDS/IPS, Wireshark, Splunk, Network Monitoring  
+- **Cybersecurity**: IDS/IPS, Wireshark, Splunk, Network Monitoring, TryHackMe, HackThebox  
 - **IT & Infrastructure**: Linux, Raspberry Pi, Docker, Networking  
 - **App Development**: iOS (SwiftUI), Android, kotlin, Firebase, UI/UX  
 - **Other Tools**: Git, GitHub, VS Code, Xcode, Android Studio, PyCharm
