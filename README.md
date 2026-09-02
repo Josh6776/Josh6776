@@ -1,5 +1,5 @@
 # Hi, I'm Josh 👋
-🔒 Cybersecurity Student & Enthusiast | 🎓 Computing & IT Student | 📱 App Developer | 🤖 IoT Maker  
+🔒 Cybersecurity University Student | 📱 App / Web Developer | 🤖 IoT Maker  
 
 I’m passionate about building practical IT solutions, from student productivity apps to cybersecurity tools and IoT projects.
 
