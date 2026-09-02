@@ -1,5 +1,5 @@
 # Hi, I'm Josh 👋
-🎓 Computing & IT Student | 🔒 Cybersecurity Enthusiast | 📱 App Developer | 🤖 IoT Maker  
+🔒 Cybersecurity Student & Enthusiast | 🎓 Computing & IT Student | 📱 App Developer | 🤖 IoT Maker  
 
 I’m passionate about building practical IT solutions, from student productivity apps to cybersecurity tools and IoT projects.
 
@@ -7,8 +7,8 @@ I’m passionate about building practical IT solutions, from student productivit
 - **Programming & Scripting**: Python, Swift (SwiftUI), Java  
 - **Cybersecurity**: IDS/IPS, Wireshark, Splunk, Network Monitoring  
 - **IT & Infrastructure**: Linux, Raspberry Pi, Docker, Networking  
-- **App Development**: iOS (SwiftUI), Android, Firebase, UI/UX  
-- **Other Tools**: Git, GitHub, VS Code, Xcode  
+- **App Development**: iOS (SwiftUI), Android, kotlin, Firebase, UI/UX  
+- **Other Tools**: Git, GitHub, VS Code, Xcode, Android Studio, PyCharm
 
 ---
 
